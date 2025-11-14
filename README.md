@@ -1,3 +1,15 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository and Reference Commit:**  
+https://github.com/emilydoh/Pixelsketch/commit/08d5148ec4d1733604f0d369a0376c3ce284c391
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+
+---
+
 # Pixelsketch
 A web app for users to make pixel art and save it when they're done, built in React.
 
